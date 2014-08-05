@@ -10,6 +10,7 @@ namespace Doublecheck
     {
         static void Main(string[] args)
         {
+            Console.Write("Changes in SIT");
         }
     }
 }
